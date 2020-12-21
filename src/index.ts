@@ -2,7 +2,8 @@
 // import './06_class'
 // import './07_abstract_class'
 // import './08_class&interface'
-import './09_<T>'
+// import './09_<T>'
+import './10_<T>&class'
 
 let hello :string = 'hello'
 document.querySelectorAll('.app')[0].innerHTML = hello;
